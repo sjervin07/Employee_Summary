@@ -1,1 +1,1 @@
-# Employee_Summary
+In progress. This application allows managers to easily catalogue types of employee to in order to efficiently put together teams.
